@@ -1,0 +1,44 @@
+.faq {
+     text-align: center;
+     font-size: 30px;
+     margin-bottom: 50px;
+     margin-top:50px;
+}
+
+
+.accordion {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+.card-header {
+    background-color:rgb(246,244,246);
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+}
+ 
+
+.btn {
+   
+    color:orangered;
+    cursor: pointer;
+}
+
+
+.btn:hover {
+    color: grey;
+    text-decoration: none;   
+}
+ 
+
+  
+.card-body {
+    background-color: white;
+    color: grey;
+    text-align: left;
+    border: 1px solid black;
+} 
+
+
